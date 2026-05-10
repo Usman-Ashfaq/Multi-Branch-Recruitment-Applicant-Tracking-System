@@ -113,4 +113,3 @@ Backend runs on `http://localhost:5000`
 
 - **Frontend:** _[placeholder]_
 - **Backend:** _[placeholder]_
-
