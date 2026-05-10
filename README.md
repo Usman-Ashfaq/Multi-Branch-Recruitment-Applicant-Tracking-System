@@ -111,5 +111,5 @@ Backend runs on `http://localhost:5000`
 
 ## Deployment URLs
 
-- **Frontend:** _[placeholder]_
-- **Backend:** _[placeholder]_
+- **Backend:** https://vercel.com/usman-ashfaq-3012s-projects/multi-branch-recruitment-applicant-tracking-system-nz9m
+- **Frontend:** https://recruitment-applicant-tracking-system.netlify.app/
