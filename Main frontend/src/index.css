@@ -28,7 +28,7 @@ input, select, textarea { font-family: inherit; font-size: 0.95rem; }
 .main-content { min-height: calc(100vh - 64px); }
 .page-container { max-width: 1200px; margin: 0 auto; padding: 2rem; }
 
-/* === BUTTONS === */
+/* ===All  BUTTONS === */
 .btn { display: inline-flex; align-items: center; gap: 8px; padding: 10px 20px; border-radius: 10px; font-weight: 600; font-size: 0.9rem; border: none; transition: all 0.25s; }
 .btn-primary { background: linear-gradient(135deg, #4361ee, #3a0ca3); color: #fff; box-shadow: 0 4px 15px rgba(67,97,238,0.3); }
 .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 6px 25px rgba(67,97,238,0.4); }
@@ -63,7 +63,7 @@ input, select, textarea { font-family: inherit; font-size: 0.95rem; }
 .stat-label { font-size: 0.85rem; color: rgba(255,255,255,0.5); }
 .stat-divider { width: 1px; background: rgba(255,255,255,0.15); }
 
-/* === FEATURES === */
+/* === All Kind of FEATURES === */
 .features-section { padding: 5rem 2rem; max-width: 1200px; margin: 0 auto; }
 .section-title { text-align: center; font-size: 2rem; font-weight: 700; margin-bottom: 3rem; }
 .features-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 24px; }
@@ -104,7 +104,7 @@ input, select, textarea { font-family: inherit; font-size: 0.95rem; }
 .form-actions { display: flex; gap: 12px; margin-top: 1rem; }
 .file-input { padding: 10px !important; background: #f8f9fa !important; }
 
-/* === ALERTS === */
+/* === All ALERTS === */
 .alert { padding: 12px 18px; border-radius: 10px; margin-bottom: 1rem; font-size: 0.92rem; font-weight: 500; }
 .alert-success { background: #d1fae5; color: #065f46; border: 1px solid #a7f3d0; }
 .alert-error { background: #fee2e2; color: #991b1b; border: 1px solid #fecaca; }
