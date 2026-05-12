@@ -163,7 +163,7 @@ input, select, textarea { font-family: inherit; font-size: 0.95rem; }
 .auth-form { margin-bottom: 1.5rem; }
 .auth-footer { text-align: center; font-size: 0.9rem; color: #888; }
 
-/* === DASHBOARD === */
+/* === Showing complete DASHBOARD === */
 .dashboard-welcome { margin-bottom: 2rem; }
 .dashboard-welcome h1 { font-size: 1.8rem; }
 .dashboard-welcome p { color: #666; margin-top: 4px; }
@@ -243,7 +243,7 @@ input, select, textarea { font-family: inherit; font-size: 0.95rem; }
 .branch-card-header h3 { font-size: 1.1rem; }
 .branch-card p { font-size: 0.9rem; color: #555; margin-top: 4px; }
 
-/* === RESPONSIVE === */
+/* === RESPONSIVE Design  === */
 @media (max-width: 768px) {
   .navbar-container { flex-direction: column; height: auto; padding: 12px 0; gap: 8px; }
   .navbar-links { justify-content: center; }
